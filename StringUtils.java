@@ -51,5 +51,3 @@ command:git clean -f // to remove all the file from the working directory
 command: git reset  // files will come from [sa--->>wa]working area <<<<-------staging area
 
 command:git reset cid /// it will fetch the particular file from the staging area
-
-
